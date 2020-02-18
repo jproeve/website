@@ -21,13 +21,13 @@ footer {
     position: relative;
     height: 300px;
     width: 100%;
-    background-color: #cce6ff;
+    background-color: white;
 }
 
 p.copyright {
     position: relative;
     width: 100%;
-    color: white;
+    color: #00004D;
     line-height: 240px; 
     font-size: 0.8em;
     text-align: center;
