@@ -1,5 +1,5 @@
 ﻿body {
-	background-color: blue;
+	background-color: #00008B;
 }
 
 h1 {
@@ -21,7 +21,7 @@ footer {
     position: relative;
     height: 300px;
     width: 100%;
-    background-color: blue;
+    background-color: white;
 }
 
 p.copyright {
